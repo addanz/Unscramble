@@ -1,0 +1,15 @@
+C:\Users\dhaka\source\repos\Unscramble\bin\Debug\Unscramble.exe.config
+C:\Users\dhaka\source\repos\Unscramble\bin\Debug\Unscramble.exe
+C:\Users\dhaka\source\repos\Unscramble\bin\Debug\Unscramble.pdb
+C:\Users\dhaka\source\repos\Unscramble\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dhaka\source\repos\Unscramble\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.csproj.AssemblyReference.cache
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.Form1.resources
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.Properties.Resources.resources
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.SettingsForm.resources
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.csproj.GenerateResource.cache
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.csproj.CoreCompileInputs.cache
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.csproj.CopyComplete
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.exe
+C:\Users\dhaka\source\repos\Unscramble\obj\Debug\Unscramble.pdb
+C:\Users\dhaka\source\repos\Unscramble\bin\Debug\words.json
